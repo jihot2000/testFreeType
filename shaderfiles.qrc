@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/vertex_shader">
+        <file>simplevertex.vsh</file>
+    </qresource>
+    <qresource prefix="/fragment_shader">
+        <file>simplefrag.fsh</file>
+    </qresource>
+</RCC>
